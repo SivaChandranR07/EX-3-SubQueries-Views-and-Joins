@@ -89,48 +89,50 @@ INSERT INTO DEPT (DEPTNO, DNAME, LOC) VALUES (40, 'OPERATIONS', 'BOSTON');
 
 ## Create a Customer1 Table
 ```sql
-@@ -140,28 +152,44 @@ INSERT INTO Salesman1 (salesman_id, name, city, commission) VALUES(5003, 'Lauson
+INSERT INTO Salesman1 (salesman_id, name, city, commission) VALUES(5003, 'Lauson
 ### Q7) Write a SQL query to find the salesperson and customer who reside in the same city. Return Salesman, cust_name and city.
 
 ### QUERY:
-![image](https://github.com/DhanushPalani/EX-3-SubQueries-Views-and-Joins/assets/121594640/20c63405-1555-444c-8d92-daee8ad9f52d)
+![image](https://github.com/SivaChandranR07/EX-3-SubQueries-Views-and-Joins/assets/113497395/3b545832-cd20-4677-acc2-54a182519743)
 
-
-### OUTPUT:
-![image](https://github.com/DhanushPalani/EX-3-SubQueries-Views-and-Joins/assets/121594640/4bf9b80e-b31d-486e-87b5-5462e60e6e2f)
-
-### Q8) Write a SQL query to find salespeople who received commissions of more than 13 percent from the company. Return Customer Name, customer city, Salesman, commission.
-
-
-### QUERY:
-![image](https://github.com/DhanushPalani/EX-3-SubQueries-Views-and-Joins/assets/121594640/6b4b7f1a-e1fa-41eb-abfc-d544b005a00e)
 
 
 ### OUTPUT:
-![image](https://github.com/DhanushPalani/EX-3-SubQueries-Views-and-Joins/assets/121594640/031553d8-640c-4306-9f12-cd4a6c6a68ed)
+![image](https://github.com/SivaChandranR07/EX-3-SubQueries-Views-and-Joins/assets/113497395/124ad06c-99f3-4546-a47f-7d47d63814cc)
+
+
+
+### OUTPUT:
+![image](https://github.com/SivaChandranR07/EX-3-SubQueries-Views-and-Joins/assets/113497395/9cd2dd33-a619-4b80-b3c0-89cf9985d9cf)
+
 
 ### Q9) Perform Natural join on both tables
 
 ### QUERY:
-![image](https://github.com/DhanushPalani/EX-3-SubQueries-Views-and-Joins/assets/121594640/a9609769-7404-4c74-909b-53d5610ea79a)
+![image](https://github.com/SivaChandranR07/EX-3-SubQueries-Views-and-Joins/assets/113497395/456bd1cd-d65d-4b4c-99fb-1169caf8e155)
+
 
 
 ### OUTPUT:
-![image](https://github.com/DhanushPalani/EX-3-SubQueries-Views-and-Joins/assets/121594640/1026e100-8a70-45e8-bdcb-3d51efdfa1fc)
+![image](https://github.com/SivaChandranR07/EX-3-SubQueries-Views-and-Joins/assets/113497395/488ccbba-0b6b-4b6a-b3e5-6af95242bd61)
+
 
 ### Q10) Perform Left and right join on both tables
 
 ### QUERY:
    ## Left Join
-   ![image](https://github.com/DhanushPalani/EX-3-SubQueries-Views-and-Joins/assets/121594640/7915ee92-d1e0-4528-be68-4bbe6fd7a11c)
+![image](https://github.com/SivaChandranR07/EX-3-SubQueries-Views-and-Joins/assets/113497395/54f15540-3169-4b76-9db1-704b4bf47476)
+
 
    ## Right join
-    ![image](https://github.com/DhanushPalani/EX-3-SubQueries-Views-and-Joins/assets/121594640/8be146f2-c02a-4c31-8dd7-a759a92e69c3)
+![image](https://github.com/DhanushPalani/EX-3-SubQueries-Views-and-Joins/assets/121594640/8be146f2-c02a-4c31-8dd7-a759a92e69c3)
 
 ### OUTPUT:
    ## Left Join
-   ![image](https://github.com/DhanushPalani/EX-3-SubQueries-Views-and-Joins/assets/121594640/f7e2b17f-33d1-404c-8a43-83636dc8c552)
+![image](https://github.com/SivaChandranR07/EX-3-SubQueries-Views-and-Joins/assets/113497395/c9ed1e5d-d539-4663-82b9-fd4cff719b97)
+
 
 
    ## Right Join
-   ![image](https://github.com/DhanushPalani/EX-3-SubQueries-Views-and-Joins/assets/121594640/43cc7093-35af-4c4b-8854-068a0f0b34d1)
+![image](https://github.com/SivaChandranR07/EX-3-SubQueries-Views-and-Joins/assets/113497395/5a12564c-7f3e-40a1-ae0b-10e9816a5a33)
+
